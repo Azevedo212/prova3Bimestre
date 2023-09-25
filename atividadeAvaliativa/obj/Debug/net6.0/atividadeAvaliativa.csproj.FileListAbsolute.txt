@@ -1,0 +1,15 @@
+C:\Users\2022102020085\Documents\logica\3bimestre\atividadeAvaliativa\atividadeAvaliativa\bin\Debug\net6.0\atividadeAvaliativa.exe
+C:\Users\2022102020085\Documents\logica\3bimestre\atividadeAvaliativa\atividadeAvaliativa\bin\Debug\net6.0\atividadeAvaliativa.deps.json
+C:\Users\2022102020085\Documents\logica\3bimestre\atividadeAvaliativa\atividadeAvaliativa\bin\Debug\net6.0\atividadeAvaliativa.runtimeconfig.json
+C:\Users\2022102020085\Documents\logica\3bimestre\atividadeAvaliativa\atividadeAvaliativa\bin\Debug\net6.0\atividadeAvaliativa.dll
+C:\Users\2022102020085\Documents\logica\3bimestre\atividadeAvaliativa\atividadeAvaliativa\bin\Debug\net6.0\atividadeAvaliativa.pdb
+C:\Users\2022102020085\Documents\logica\3bimestre\atividadeAvaliativa\atividadeAvaliativa\obj\Debug\net6.0\atividadeAvaliativa.csproj.AssemblyReference.cache
+C:\Users\2022102020085\Documents\logica\3bimestre\atividadeAvaliativa\atividadeAvaliativa\obj\Debug\net6.0\atividadeAvaliativa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020085\Documents\logica\3bimestre\atividadeAvaliativa\atividadeAvaliativa\obj\Debug\net6.0\atividadeAvaliativa.AssemblyInfoInputs.cache
+C:\Users\2022102020085\Documents\logica\3bimestre\atividadeAvaliativa\atividadeAvaliativa\obj\Debug\net6.0\atividadeAvaliativa.AssemblyInfo.cs
+C:\Users\2022102020085\Documents\logica\3bimestre\atividadeAvaliativa\atividadeAvaliativa\obj\Debug\net6.0\atividadeAvaliativa.csproj.CoreCompileInputs.cache
+C:\Users\2022102020085\Documents\logica\3bimestre\atividadeAvaliativa\atividadeAvaliativa\obj\Debug\net6.0\atividadeAvaliativa.dll
+C:\Users\2022102020085\Documents\logica\3bimestre\atividadeAvaliativa\atividadeAvaliativa\obj\Debug\net6.0\refint\atividadeAvaliativa.dll
+C:\Users\2022102020085\Documents\logica\3bimestre\atividadeAvaliativa\atividadeAvaliativa\obj\Debug\net6.0\atividadeAvaliativa.pdb
+C:\Users\2022102020085\Documents\logica\3bimestre\atividadeAvaliativa\atividadeAvaliativa\obj\Debug\net6.0\atividadeAvaliativa.genruntimeconfig.cache
+C:\Users\2022102020085\Documents\logica\3bimestre\atividadeAvaliativa\atividadeAvaliativa\obj\Debug\net6.0\ref\atividadeAvaliativa.dll
